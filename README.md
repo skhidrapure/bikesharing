@@ -32,20 +32,20 @@ Taking a look at the feature of tableau which is the story. This Story helps the
 
 Below are some screenshot showing the story for the bike sharing data analysed for Des Moines.
 
-![](Resources/Story_1)
+![](Resources/Story_1.png)
 
 
-![](Resources/Story_2)
+![](Resources/Story_2.png)
 
 
-![](Resources/Story_3)
+![](Resources/Story_3.png)
 
 
-![](Resources/Story_4)
+![](Resources/Story_4.png)
 
 
-![](Resources/Story_5)
+![](Resources/Story_5.png)
 
 
-![](Resources/Story_6)
+![](Resources/Story_6.png)
 
