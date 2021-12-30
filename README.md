@@ -26,6 +26,9 @@ Using Python and Pandas functions, converting the "tripduration" column from an 
 Here is the Screenshot showing the conversion of data type for the trip duration column
 ![](Resources/Tripduration_column_datatype_converted.png)
 
+Below is the Screenshot showing the dataframe exported as a csv file without index
+1[](Resources/Exported_csv_without_index.png)
+
 ### Deliverable 2 & 3
 
 Taking a look at the feature of tableau which is the story. This Story helps the client understand more clearly the data collected & analized for this business proposal.
