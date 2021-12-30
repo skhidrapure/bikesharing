@@ -37,7 +37,7 @@ Below are some screenshot showing the story for the bike sharing data analysed f
 
 - Here are the five visualizations that you created in Deliverable 2.
 
-![](Resources/Story_1.png)
+![](Resources/Story_01.png)
 
 
 ![](Resources/Story_2.png)
