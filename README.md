@@ -39,25 +39,42 @@ Below are some screenshot showing the story for the bike sharing data analysed f
 
 ![](Resources/Story_01.png)
 
+The Screenshoot above shows the total number of riders for the month of August 2019.  We can see there are two types of riders represented in this screen: Customers and Subscribers. The visualization uses a pie chart to show the proportion of each User Type & Gender. This shows that over 81% of customers are Subscribers. This visualization is important to future investors because a solid base of Subscribers is nessecary for long-term viability and return on investment.
+
 
 ![](Resources/Story_2.png)
+
+These two visualizations show the length of time for each bike rental as well as the number of rentals. The upper graph shows the total for all Genders, showing that the vast majority of rentals are less than 30 minutes. The lower visualization breaks down rental times by Gender. This shows that males are a much larger portion of the bike rentals, but the rental times are fairly equivalent between all Genders.
+
+This visualization gives a clear understanding of how all of the mentioned factors are working together to create the story of daily useage. 
 
 
 ![](Resources/Story_3.png)
 
+The screenshot above presents another view of the high and low demand times during each day and the week days with highest and lowest denamd for bikes. This is important for investors to know when considering how many bikes to have avialable and where to have the most bikes available to meet rider's demands.
+
 
 ![](Resources/Story_4.png)
+Here the heatmap has been used to show the concentration of trips by different hours of the day over a week. It is also grouped by Gender. Male and Female usage appears to occur most from 7-9AM and 4-8PM on weekdays, probably coinciding with daily work commutes.
 
 
 ![](Resources/Story_5.png)
 
+This visualization also uses a heatmap, but breaksdown usage by User Type and Gender throughout the week. Here we can see that the Male Subscribers have a much higher concentration compared to the others.
+
+
+
+-  Two additional visualizations suggested for future analysis are:
 
 ![](Resources/Story_6.png)
 
-
-- two visualizations that you created in this module.
+This is an additional visualization suggested for future analysis. The above screenshoot shows the bike repairs required for the particular Bikeid.
 ![](Resources/Top_10_startend_station.png)
+
 ![](Resources/Bottom_10_startend_station.png)
+
+The above Top 10 start & end time locations & the Bottom 10 start & end time locations visualizations is a very good data for analyzing the data. This visualization helps the investors to hel forsee the time & areas for bike repairs or inventory. It also gives the details where the bikes need to present & how many bikes can be anticipitated in these regions/locations.
+
 
 TABLEAU PUBLIC URL
 https://public.tableau.com/app/profile/shweta7357/viz/DESMOINESBIKE-SHARINGANALYSIS/Story1?publish=yes
