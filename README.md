@@ -39,7 +39,7 @@ Below are some screenshot showing the story for the bike sharing data analysed f
 
 ![](Resources/Story_01.png)
 
-The Screenshoot above shows the total number of riders for the month of August 2019.  We can see there are two types of riders represented in this screen: Customers and Subscribers. The visualization uses a pie chart to show the proportion of each User Type & Gender. This shows that over 81% of customers are Subscribers. This visualization is important to future investors because a solid base of Subscribers is nessecary for long-term viability and return on investment.
+The Screenshoot above shows the total number of riders for the month of August 2019. We can see there are two types of riders represented in this screen: Customers and Subscribers. The visualization uses a pie chart to show the proportion of each User Type & Gender. The pie chart shows that over 81% of customers are Subscribers. This visualization is important to future investors because a solid base of Subscribers is nessecary for long-term viability and return on investment.
 
 
 ![](Resources/Story_2.png)
@@ -55,6 +55,7 @@ The screenshot above presents another view of the high and low demand times duri
 
 
 ![](Resources/Story_4.png)
+
 Here the heatmap has been used to show the concentration of trips by different hours of the day over a week. It is also grouped by Gender. Male and Female usage appears to occur most from 7-9AM and 4-8PM on weekdays, probably coinciding with daily work commutes.
 
 
@@ -68,13 +69,14 @@ This visualization also uses a heatmap, but breaksdown usage by User Type and Ge
 
 ![](Resources/Story_6.png)
 
-This is an additional visualization suggested for future analysis. The above screenshoot shows the bike repairs required for the particular Bikeid.
+This is an additional visualization suggested for future analysis. The above screenshoot shows the bike repairs required with reference to Bikeid.
+
+
 ![](Resources/Top_10_startend_station.png)
 
 ![](Resources/Bottom_10_startend_station.png)
 
-The above Top 10 start & end time locations & the Bottom 10 start & end time locations visualizations is a very good data for analyzing the data. This visualization helps the investors to hel forsee the time & areas for bike repairs or inventory. It also gives the details where the bikes need to present & how many bikes can be anticipitated in these regions/locations.
-
+The above Top 10 start & end time locations & the Bottom 10 start & end time locations visualizations is a very good data for analyzing the data. This visualization helps the investors to help forsee the time slots & areas for bike repairs or inventory. It also gives the details where the bikes need to present or how many bikes need to be present in these regions/locations to meet the customers demand.
 
 TABLEAU PUBLIC URL
 https://public.tableau.com/app/profile/shweta7357/viz/DESMOINESBIKE-SHARINGANALYSIS/Story1?publish=yes
