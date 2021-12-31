@@ -44,7 +44,7 @@ The Screenshoot above shows the total number of riders for the month of August 2
 
 ![](Resources/Story_2.png)
 
-These two visualizations show the length of time for each Hour as well as the number of bikes.This visualization gives a clear understanding of how all of the mentioned factors are working together to create the story of daily useage.
+These two visualizations show the length of time for each Hour as well as the number of bikes. This visualization gives a clear understanding of how all of the mentioned factors are working together to create the story of daily hourly useage.
 
 ![](Resources/Story_3.png)
 
