@@ -44,10 +44,7 @@ The Screenshoot above shows the total number of riders for the month of August 2
 
 ![](Resources/Story_2.png)
 
-These two visualizations show the length of time for each bike rental as well as the number of rentals. The upper graph shows the total for all Genders, showing that the vast majority of rentals are less than 30 minutes. The lower visualization breaks down rental times by Gender. This shows that males are a much larger portion of the bike rentals, but the rental times are fairly equivalent between all Genders.
-
-This visualization gives a clear understanding of how all of the mentioned factors are working together to create the story of daily useage. 
-
+These two visualizations show the length of time for each Hour as well as the number of bikes.This visualization gives a clear understanding of how all of the mentioned factors are working together to create the story of daily useage.
 
 ![](Resources/Story_3.png)
 
