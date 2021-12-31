@@ -60,6 +60,9 @@ Here the heatmap has been used to show the concentration of trips by different h
 This visualization also uses a heatmap, but breaksdown usage by User Type and Gender throughout the week. Here we can see that the Male Subscribers have a much higher concentration compared to the others.
 
 
+## Summary
+There were a total of 2,344,224 bike rides in August 2019. From the results we can see that 1,900,359 users are Subscribers and there were 443,865 Customers riding. A peak number of riders rented a bike for 5 to 6 hours, the largest number being male. There are two peak periods every weekday that align with traditional business hours beginning and ending (around 8a.m. and 5p.m.) and at the same location. There seems to be no correlation to gender demands for bikes during peak hours.
+
 
 -  Two additional visualizations suggested for future analysis are:
 
@@ -74,8 +77,8 @@ This is an additional visualization suggested for future analysis. The above scr
 
 The above Top 10 start & end time locations & the Bottom 10 start & end time locations visualizations is a very good data for analyzing the data. This visualization helps the investors to help forsee the time slots & areas for bike repairs or inventory. It also gives the details where the bikes need to present or how many bikes need to be present in these regions/locations to meet the customers demand.
 
-## Summary
-There were a total of 2,344,224 bike rides in August 2019. From the results we can see that 1,900,359 users are Subscribers and there were 443,865 Customers riding. A peak number of riders rented a bike for 5 to 6 hours, the largest number being male. There are two peak periods every weekday that align with traditional business hours beginning and ending (around 8a.m. and 5p.m.) and at the same location. There seems to be no correlation to gender demands for bikes during peak hours.
+
+
 TABLEAU PUBLIC URL
 https://public.tableau.com/app/profile/shweta7357/viz/DESMOINESBIKE-SHARINGANALYSIS/Story1?publish=yes
 
