@@ -51,8 +51,7 @@ This visualization gives a clear understanding of how all of the mentioned facto
 
 ![](Resources/Story_3.png)
 
-The screenshot above presents another view of the high and low demand times during each day and the week days with highest and lowest denamd for bikes. This is important for investors to know when considering how many bikes to have avialable and where to have the most bikes available to meet rider's demands.
-
+This visualization tells investors the majority of rides are between 4.5 and 6.5 hours in duration. This is important becasue of at least two factors: one, longer rides during peak hours mean fewer bikes may be available at popular stations. Secondly, Customers taking 4.5 to 6.5 hour bike rides represent higher prifit margins but also more wear on the bikes. The lower visualization breaks down rental times by Gender. This shows that males are a much larger portion of the bike rentals, but the rental times are fairly equivalent between all Genders.
 
 ![](Resources/Story_4.png)
 
